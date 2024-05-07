@@ -21,25 +21,22 @@ The `MultiThreadedApp` Java class simulates concurrent access to a shared resour
 
 ## How to Use
 
-1. Clone the repository to your local machine:
 
-```
-git clone https://github.com/yourusername/multithreading-java-locks.git
-```
 
-2. Navigate to the cloned directory:
+
+1. Navigate to the cloned directory:
 
 ```
 cd multithreading-java-locks
 ```
 
-3. Compile the Java program:
+2. Compile the Java program:
 
 ```
 javac MultiThreadedApp.java
 ```
 
-4. Run the compiled program:
+3. Run the compiled program:
 
 ```
 java MultiThreadedApp
